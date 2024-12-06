@@ -26,3 +26,16 @@ h2 {
 .litag {
     color:red;
 }
+.linkborder {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(221, 202, 150);
+    color: red;
+    text-decoration: none;
+}
+.linkborder:hover {
+    color:aquamarine;
+    background-color: rgb(7, 43, 241);
+}
