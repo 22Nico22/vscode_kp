@@ -1,0 +1,28 @@
+.alapbodycucc {
+    color: rgb(230, 190, 145);
+    background-color: rgb(48, 46, 46);
+    font-size: 12pt;
+}
+#nemtom {
+    color:aquamarine;
+    background-color: beige;
+}
+
+#ScottishFold{
+    background-color: blue;
+    color:rgb(0, 132, 255);
+}
+#Savannahmacska{
+    background-color: greenyellow;
+    color:rgb(255, 0, 0);
+}
+#Bengálimacska{
+    background-color: red;
+    color:black;
+}
+h2 {
+    font-size: 18pt;
+}
+.litag {
+    color:red;
+}
